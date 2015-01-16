@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;SMGE&apos; to &apos;SMGM&apos;&#x0D;&#x0A;- Original project: &apos;Simple Memory Game Engine&apos;&#x0D;&#x0A;- Original element: &apos;SMGE&apos;&#x0D;&#x0A;- Renamed element: &apos;SMGM&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SMGE&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{SMGE.java[SMGE" matchStrategy="1" name="SMGM" qualified="false" references="true" similarDeclarations="false" stamp="1414774680617" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;SMGM.keyboardToResult(...)&apos; to &apos;keyboardToNextState&apos;&#x0D;&#x0A;- Original project: &apos;Simple Memory Game&apos;&#x0D;&#x0A;- Original element: &apos;SMGM.keyboardToResult(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;SMGM.keyboardToNextState(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="true" description="Rename method &apos;keyboardToResult&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{SMGM.java[SMGM~keyboardToResult~Z" name="keyboardToNextState" references="true" stamp="1415149404942" version="1.0"/>
+</session>
